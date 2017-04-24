@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center"
+	tools:context="vsper.example.android.username.UserActivity">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="No Username"
+		android:textSize="20sp"
+		android:id="@+id/userName"
+		app:layout_constraintBottom_toTopOf="@+id/getUserButton" />
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Get User"
+		android:onClick="onGetUserButtonClicked"
+		android:id="@+id/getUserButton"
+		android:layout_margin="10dp"/>
+
+</LinearLayout>
