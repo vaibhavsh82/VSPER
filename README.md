@@ -1,5 +1,5 @@
 # VSPER
-VSPER software architecture to have different components and each component will have single responsibility
+VSPER software architecture to have different components and each component will have single responsibility. Inspired from MVP framework, VIPER architecture and Google ToDo Android architecture app.
 
 
 ## Main Components of Modified MVP (VSPER)
