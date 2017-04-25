@@ -20,7 +20,7 @@ The main parts of VSPER are:
 - Each piece can perform its functionality with not much of external dependencies and if there are dependencies, it should be injected.</br>
 
 ## Diagram
-![VSPER](/Users/vsharma10/Desktop/VSPER.png?raw=true)
+![](https://github.com/vaibhavsh82/VSPER/blob/master/VSPER.png)
 
 ## FAQs
 Q: Who is responsible for updating the DataModel when we get the data from network?</br>
