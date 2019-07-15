@@ -1,5 +1,5 @@
 # VSPER
-VSPER software architecture to have different components and each component will have single responsibility. Inspired from MVP framework, VIPER architecture and Google ToDo Android architecture app.
+VSPER is an software architecture for mobile apps where each architecure components will have clear responsibility to decouple the component from each other and provide easy testability of your application. Inspired from MVP framework, VIPER architecture and Google ToDo Android architecture app.
 
 
 ## Main Components of Modified MVP (VSPER)
